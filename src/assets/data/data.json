@@ -1,0 +1,21 @@
+{
+  "name": "Denisa Gerez",
+  "backImage": "https://",
+  "image": "./assets/images/20181125_005849.jpg",
+  "position": "web developer",
+  "company": {
+    "name": "Sting Marketing",
+    "img": "https://",
+    "url": "#",
+    "dateInit": "2018-09",
+    "dateEnd": "2022-02",
+    "isActualJob": 1
+  },
+  "school": {
+    "name": "ISFT n° 179",
+    "img": "https://",
+    "dateInit": "2007-03"
+  },
+  "ubication": "Buenos Aires, Argentina",
+  "about": "un poco más de info sobre mi"
+}
